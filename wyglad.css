@@ -1,9 +1,9 @@
 body{
-margin: 50px;
+margin: 40px;
 background-color: antiquewhite;
-border-style: solid;
 border-color: black ;
-border-width: 3px;
+border-width: 4px;
+border-style: dashed;
 }
 
 
