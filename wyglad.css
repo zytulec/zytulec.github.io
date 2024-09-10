@@ -1,24 +1,29 @@
 body{
-margin: 20px;
-background-color: antiquewhite;
-border-color: black ;
-border-width: 4px;
-border-style: dashed;
+
+    margin: 20px;
+    background-color: antiquewhite;
+    border-color: black ;
+    border-width: 4px;
+    border-style: dashed;
+  
+}
+
+ramka{
+
+
+
 }
 
 
-
-
 naglowek{
-    margin: 60px;
+    margin: 20px;
     color:brown;
     font-size: x-large;
 }
 
 
-czcionka{
+costam{
 font-size: large;
-
 
 
 }
