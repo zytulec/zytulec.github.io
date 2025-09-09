@@ -5,14 +5,6 @@ const dodaj = () => {
    const wynik = document.getElementById('wynik')
    wynik.innerText = Number(f1.value) + Number(f2.value)
 
-      const wynik = document.getElementById('wynik2')
-   wynik.innerText = Number(f1.value) - Number(f2.value)
-
-      const wynik = document.getElementById('wynik3')
-   wynik.innerText = Number(f1.value) * Number(f2.value)
-
-      const wynik = document.getElementById('wynik4')
-   wynik.innerText = Number(f1.value) / Number(f2.value)
 }
 
 const wyczysc = () =>{
