@@ -22,7 +22,7 @@ const pomnóż = () => {
    wynik.innerText = Number(f1.value) * Number(f2.value)
 
 }
-const dodaj = () => {
+const podziel = () => {
    const f1 = document.getElementById('f1')
    const f2 = document.getElementById('f2')
 
